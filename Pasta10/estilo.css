@@ -22,7 +22,7 @@ body{
 	width: 100%; 
 	height: 97px;
     float: left;	
-	background-color: #fff;
+	background-color:black;
 	opacity:.9;
 	position: fixed;
 	z-index: 1;	
@@ -258,7 +258,7 @@ body{
 	width: 100%;
 	height: 100px;
 	float: left;
-	background-color:red;
+	background-color: black;
 	margin-top: 3%;
 }
 #r1 p{
@@ -450,6 +450,13 @@ li.dog-img-1 img{
 	margin-left: 43%;
 	width: auto;
 	margin-top: 2%;
+	{
+	.link-bio img{
+	width: 150px;
+	height: 150px;
+	border: solidcolor: black  
+	}
+	}
 }
 #titulo_servicos{
 	float: left;
